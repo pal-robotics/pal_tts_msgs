@@ -2,8 +2,8 @@
 Changelog for package pal_tts_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.1 (2024-05-14)
+------------------
 
 * moved the own repo; no change to the msgs themselves
 * Contributors: Séverin Lemaignan
