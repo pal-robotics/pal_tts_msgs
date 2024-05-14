@@ -2,6 +2,12 @@
 Changelog for package pal_tts_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
+* moved the own repo; no change to the msgs themselves
+* Contributors: Séverin Lemaignan
+
 0.3.0 (2024-05-03)
 ------------------
 * add non-verbal (eg 'R2D2') TTS plugin
