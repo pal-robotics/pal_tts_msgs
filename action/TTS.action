@@ -8,6 +8,11 @@ string text
 # For example, 'en_GB' specifies British English.
 # If not provided, the system should use the default locale.
 string locale
+
+# (Optional) The desired voice to use for the utterance.
+# If no locale is provided, the system should attempt to match it with all the available ones, regardless of the locale.
+# If not provided, the system should use the default voice for the selected locale.
+string voice
 ---
 ---
 # The current word being uttered.
