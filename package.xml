@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="3">
   <name>tts_msgs</name>
-  <version>1.0.0</version>
+  <version>1.1.0</version>
   <description>PAL text-to-speech message definition</description>
   <maintainer email="david.fernandez@pal-robotics.com">user</maintainer>
   <license> PAL Robotics S.L. </license>
