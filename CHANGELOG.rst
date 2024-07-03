@@ -2,6 +2,14 @@
 Changelog for package pal_tts_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* add LICENSE and CONTRIBUTING.md
+* rename package to tts_msgs
+* add voice field to TTS
+* update TTS action
+* Contributors: Luka Juricic, Séverin Lemaignan
+
 0.3.1 (2024-05-14)
 ------------------
 
