@@ -1,5 +1,19 @@
-string sentence
-string lang_id
+# The text to be uttered.
+string text
+
+# (Optional) The desired locale, using following format:
+# the [ISO 639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes),
+# followed by an underscore,
+# followed by the [ISO 3166-1 alpha-2 region code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).
+# For example, 'en_GB' specifies British English.
+# If not provided, the system should use the default locale.
+string locale
+
+# (Optional) The desired voice to use for the utterance.
+# If no locale is provided, the system should attempt to match it with all the available ones, regardless of the locale.
+# If not provided, the system should use the default voice for the selected locale.
+string voice
 ---
 ---
+# The current word being uttered.
 string word
