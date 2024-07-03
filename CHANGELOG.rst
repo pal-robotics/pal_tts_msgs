@@ -2,8 +2,8 @@
 Changelog for package pal_tts_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2024-07-03)
+------------------
 * add LICENSE and CONTRIBUTING.md
 * rename package to tts_msgs
 * add voice field to TTS
