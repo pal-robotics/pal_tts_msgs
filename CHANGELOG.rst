@@ -2,6 +2,11 @@
 Changelog for package pal_tts_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* renamed {text->input} + add error_msg in response
+* Contributors: Séverin Lemaignan
+
 1.0.0 (2024-07-03)
 ------------------
 * add LICENSE and CONTRIBUTING.md
